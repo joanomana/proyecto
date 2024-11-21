@@ -1,0 +1,14 @@
+[
+    {
+        "Descripcion": "Uber",
+        "Categoria": "Transporte",
+        "Valor": 1000,
+        "Fecha": "2024-10-28"
+    },
+    {
+        "Descripcion": "Hamburguesitas",
+        "Categoria": "Comida",
+        "Valor": 20000,
+        "Fecha": "2024-10-29"
+    }
+]
